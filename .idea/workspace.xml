@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8ada6a-1822-44a3-8d8c-3a9394fbe129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../blog-js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
@@ -49,8 +51,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606847343315</updated>
-      <workItem from="1606847344550" duration="479000" />
+      <workItem from="1606847344550" duration="6207000" />
     </task>
     <servers />
   </component>
@@ -77,5 +85,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1606857960160">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.723@0.23.1280.723" timestamp="1606857960160" />
   </component>
 </project>
