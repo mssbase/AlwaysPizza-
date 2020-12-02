@@ -55,15 +55,18 @@
   class Product{
     constructor(id, data){
       const thisProduct = this;
+
       thisProduct.id = id;
       thisProduct.data = data;
+
       thisProduct.renderInMenu();
+      thisProduct.initAccordion();
+
       console.log('new Product:', Product)
 
   }
     renderInMenu(){
       const thisProduct = this;
-
       /* generate HTML based on template*/
       const generatedHTML = templates.menuProduct(thisProduct.data);
       /* create element usign utils.createElemenetFromHTML*/
@@ -73,11 +76,25 @@
       /* add element to menu */
       menuContainer.appendChild(thisProduct.element);
     }
-}
-
+    initAccordion(){
+      const thisProduct = this;
+      const clickableTrigger = thisProduct.element.querySelector(select.menuProduct.clickable);
+      console.log(clickableTrigger)
+      clickableTrigger.addEventListener('click', function (event){
+        event.preventDefault();
+        const activeProducts = document.querySelectorAll(select.all.menuProductsActive)
+        for(let activeProduct of activeProducts){
+          if(activeProduct != thisProduct.element){
+            activeProducts.classList.remove('active')
+            console.log(activeProduct)
+          }
+        }
+        thisProduct.element.classList.toggle('active');
+      });
+    }
+  }
 
   const app = {
-
     initMenu: function (){
       const thisApp = this;
       console.log('thisApp.data', thisApp.data);
