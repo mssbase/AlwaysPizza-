@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606847343315</updated>
-      <workItem from="1606847344550" duration="46112000" />
+      <workItem from="1606847344550" duration="53620000" />
     </task>
     <servers />
   </component>
@@ -91,5 +91,17 @@
       <screen x="0" y="23" width="1280" height="723" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1280.723@0.23.1280.723" timestamp="1606857960160" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../untitled/project-pizzeria/src/js/script.js</url>
+          <line>232</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
