@@ -6,7 +6,7 @@
     "scripts": {
         "init-project": "npm install && npm-run-all init:*",
         "init:dirs": "mkdirp dist src/sass src/css src/vendor src/images src/js",
-        "init:files": "touch README.md src/index.html src/sass/style.scss src/js/script.js",
+        "init:files": "touch README.md src/index.html src/sass/style.scss src/js/app.js",
         "init:gitignore": "curl https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore -o .gitignore",
         "init:gitignore:custom": "echo \"dist\" >> .gitignore",
         "test": "npm-run-all test:*",

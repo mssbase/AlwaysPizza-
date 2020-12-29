@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,15 +23,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8ada6a-1822-44a3-8d8c-3a9394fbe129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.idea/BooksApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/images/books/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-js/.idea/blog-js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/blog.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript-blog/.idea/javascript-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript-blog/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript-blog/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pizza.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pizza.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BooksApp/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../js-b/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/sass/style.scss" beforeDir="false" />
@@ -39,29 +68,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1l4DCXPKcsBmB9DZK560lpptbud" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BooksApp" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../BooksApp" />
+      <recent name="$PROJECT_DIR$/../BookApp" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../untitled" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.test2.js">
+    <configuration name="test2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../untitled/test2.js" working-dir="$PROJECT_DIR$/../untitled">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../untitled/test.js" working-dir="$PROJECT_DIR$/../untitled">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test2.js" />
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +129,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606847343315</updated>
-      <workItem from="1606847344550" duration="60725000" />
+      <workItem from="1606847344550" duration="61002000" />
+      <workItem from="1607989228670" duration="16024000" />
     </task>
     <servers />
   </component>
@@ -88,16 +147,48 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom" timestamp="1608621430224">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1608473560935" />
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1608621430224" />
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1608474467474" />
+    <state width="1259" height="180" key="GridCell.Tab.0.center" timestamp="1608621430220">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1608473560935" />
+    <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1608621430220" />
+    <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1608474467473" />
+    <state width="1259" height="180" key="GridCell.Tab.0.left" timestamp="1608621430213">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1608473560934" />
+    <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1608621430213" />
+    <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1608474467473" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right" timestamp="1608621430222">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1608473560935" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1608621430222" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1608474467474" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1607989922974">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1607989922974" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1606857960160">
       <screen x="0" y="23" width="1280" height="723" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1280.723@0.23.1280.723" timestamp="1606857960160" />
-    <state x="305" y="70" width="670" height="676" key="search.everywhere.popup" timestamp="1607986178943">
+    <state x="305" y="70" width="670" height="676" key="search.everywhere.popup" timestamp="1608473476144">
       <screen x="0" y="23" width="1280" height="723" />
     </state>
-    <state x="305" y="70" width="670" height="676" key="search.everywhere.popup/0.23.1280.723@0.23.1280.723" timestamp="1607986178943" />
+    <state x="305" y="70" width="670" height="676" key="search.everywhere.popup/0.23.1280.723@0.23.1280.723" timestamp="1608473476144" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -105,7 +196,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/../untitled/project-pizzeria/src/js/script.js</url>
           <line>232</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>

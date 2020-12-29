@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="blog-js" />
     <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="BooksApp" />
   </component>
 </module>
