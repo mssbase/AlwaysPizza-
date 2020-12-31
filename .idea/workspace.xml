@@ -23,6 +23,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8ada6a-1822-44a3-8d8c-3a9394fbe129" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BB/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.idea/BB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/images/books/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BB/src/sass/style.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/.eslintrc.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/.gitignore" afterDir="false" />
@@ -40,6 +57,7 @@
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/data.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/sass/style.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/vendor/.gitkeep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog-js/.idea/blog-js.iml" afterDir="false" />
@@ -48,19 +66,22 @@
       <change afterPath="$PROJECT_DIR$/../javascript-blog/.idea/javascript-blog.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javascript-blog/js/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/WebstormProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/WebstormProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pizza.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pizza.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BooksApp/src/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stylelintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/AmountWidget.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/AmountWidget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/CartProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/CartProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../js-b/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript-blog/sass/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-blog/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/vendor/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning-git-2" beforeDir="false" afterPath="$PROJECT_DIR$/../learning-git-2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +97,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l4DCXPKcsBmB9DZK560lpptbud" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -131,6 +152,7 @@
       <updated>1606847343315</updated>
       <workItem from="1606847344550" duration="61002000" />
       <workItem from="1607989228670" duration="16024000" />
+      <workItem from="1609419873777" duration="1528000" />
     </task>
     <servers />
   </component>
