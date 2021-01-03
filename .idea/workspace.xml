@@ -60,22 +60,41 @@
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/sass/style.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.idea/SoloProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoloProject/src/styleguide.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog-js/.idea/blog-js.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/.idea/blog.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javascript-blog/.idea/javascript-blog.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javascript-blog/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ksiazka/.idea/ksiazka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ksiazka/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ksiazka/test.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/WebstormProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/WebstormProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pizza.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pizza.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.stylelintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/AmountWidget.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/AmountWidget.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/CartProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/CartProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/components/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Product.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/js/script.js" afterDir="false" />
@@ -111,21 +130,21 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BooksApp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SoloProject" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../untitled" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../SoloProject" />
       <recent name="$PROJECT_DIR$/../BooksApp" />
       <recent name="$PROJECT_DIR$/../BookApp" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../untitled" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test2.js">
@@ -175,30 +194,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="180" key="GridCell.Tab.0.bottom" timestamp="1608621430224">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609602758002">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.726@0.23.1280.726" timestamp="1609602758002" />
+    <state x="292" y="170" key="EditFileWatcherDialog" timestamp="1609610479643">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="292" y="170" key="EditFileWatcherDialog/0.23.1280.726@0.23.1280.726" timestamp="1609610479643" />
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom" timestamp="1609602598063">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1608473560935" />
     <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1608621430224" />
-    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1608474467474" />
-    <state width="1259" height="180" key="GridCell.Tab.0.center" timestamp="1608621430220">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1609602598063" />
+    <state width="1259" height="180" key="GridCell.Tab.0.center" timestamp="1609602598062">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1608473560935" />
     <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1608621430220" />
-    <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1608474467473" />
-    <state width="1259" height="180" key="GridCell.Tab.0.left" timestamp="1608621430213">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1609602598062" />
+    <state width="1259" height="180" key="GridCell.Tab.0.left" timestamp="1609602598062">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1608473560934" />
     <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1608621430213" />
-    <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1608474467473" />
-    <state width="1259" height="180" key="GridCell.Tab.0.right" timestamp="1608621430222">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1609602598062" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right" timestamp="1609602598063">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1608473560935" />
     <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1608621430222" />
-    <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1608474467474" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1609602598063" />
     <state x="141" y="23" key="SettingsEditor" timestamp="1607989922974">
       <screen x="0" y="23" width="1280" height="723" />
     </state>

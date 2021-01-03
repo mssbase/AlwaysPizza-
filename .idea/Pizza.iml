@@ -9,7 +9,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="blog-js" />
-    <orderEntry type="module" module-name="untitled" />
     <orderEntry type="module" module-name="BooksApp" />
+    <orderEntry type="module" module-name="ksiazka" />
+    <orderEntry type="module" module-name="SoloProject" />
   </component>
 </module>

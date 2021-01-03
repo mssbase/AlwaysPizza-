@@ -128,11 +128,12 @@ class Product {
     thisProduct.name = thisProduct.data.name;
     thisProduct.amount = thisProduct.amountWidget.value;
     // app.cart.add(thisProduct.prepareCartProduct());
+    const preparedProduct = thisProduct.prepareCartProduct();
 
     const event = new CustomEvent('add-to-cart', {
       bubbles: true,
       detail: {
-        product: thisProduct,
+        product: preparedProduct,
       },
     });
     thisProduct.element.dispatchEvent(event);

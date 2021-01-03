@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../BooksApp/.idea/BooksApp.iml" filepath="$PROJECT_DIR$/../BooksApp/.idea/BooksApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pizza.iml" filepath="$PROJECT_DIR$/.idea/Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SoloProject/.idea/SoloProject.iml" filepath="$PROJECT_DIR$/../SoloProject/.idea/SoloProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../blog-js/.idea/blog-js.iml" filepath="$PROJECT_DIR$/../blog-js/.idea/blog-js.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ksiazka/.idea/ksiazka.iml" filepath="$PROJECT_DIR$/../ksiazka/.idea/ksiazka.iml" />
     </modules>
   </component>
 </project>
