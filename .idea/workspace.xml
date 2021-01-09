@@ -60,7 +60,9 @@
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/js/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/sass/style.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BooksApp/src/vendor/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/components/Booking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/components/BaseWidget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/components/DatePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/components/HourPicker.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.eslintrc.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.gitignore" afterDir="false" />
@@ -92,7 +94,9 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/AmountWidget.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/AmountWidget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/Booking.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Booking.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/package-lock.json" beforeDir="false" />
@@ -191,9 +195,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609602758002">
-      <screen x="0" y="23" width="1280" height="726" />
+    <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610209757292">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
+    <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.724@0.23.1280.724" timestamp="1610209757292" />
     <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.726@0.23.1280.726" timestamp="1609602758002" />
     <state x="292" y="170" key="EditFileWatcherDialog" timestamp="1609610479643">
       <screen x="0" y="23" width="1280" height="726" />
