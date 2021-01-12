@@ -10,7 +10,7 @@ class BaseWidget{
   get value(){
     const thisWidget = this;
 
-    return thisWidget.correctValue
+    return thisWidget.correctValue;
   }
   set value(value){
     const thisWidget = this;
@@ -34,7 +34,7 @@ class BaseWidget{
   }
 
   isValid(value){
-    return  !isNaN(value)
+    return  !isNaN(value);
   }
 
   renderValue(){
