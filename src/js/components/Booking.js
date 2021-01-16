@@ -174,12 +174,13 @@ class Booking{
       thisBooking.initTables();
     });
 
-    // thisBooking.dom.tablesAll.addEventListener('click', function(event){
-    //    event.preventDefault();
-    //    thisBooking.changeEvent = event;
-    //    thisBooking.bookTable(event);
-    //
-    //  });
+
+    thisBooking.dom.tablesAll.addEventListener('click', function(event){
+        event.preventDefault();
+        thisBooking.changeEvent = event;
+        thisBooking.bookTable(event);
+
+      });
   }
 
   initTables(){
