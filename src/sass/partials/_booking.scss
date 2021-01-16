@@ -198,3 +198,18 @@
   @include flex(row, flex-start, space-between);
   margin: ($base-size * 4) auto;
 }
+
+.selected {
+  cursor: pointer;
+
+  &::after {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: green;
+    opacity: 0.4;
+  }
+}

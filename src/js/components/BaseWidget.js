@@ -1,5 +1,5 @@
 class BaseWidget{
-  constructor(wrapperElement, initialValue) {
+  constructor(wrapperElement, initialValue){
     const thisWidget = this;
 
     thisWidget.dom = {};
@@ -7,16 +7,21 @@ class BaseWidget{
 
     thisWidget.correctValue = initialValue;
   }
+
   get value(){
     const thisWidget = this;
-
     return thisWidget.correctValue;
   }
+
   set value(value){
     const thisWidget = this;
-    const newValue = thisWidget.parsValue(value);
+    const newValue = thisWidget.parseValue(value);
 
-    if(thisWidget.correctValue !== newValue && thisWidget.isValid(newValue)){
+    // check if the newValue is different from the one already written
+    if(
+      thisWidget.correctValue !== newValue &&
+      thisWidget.isValid(newValue)
+    ){
       thisWidget.correctValue = newValue;
       thisWidget.announce();
     }
@@ -25,16 +30,15 @@ class BaseWidget{
 
   setValue(value){
     const thisWidget = this;
-
     thisWidget.value = value;
   }
 
-  parsValue(value){
+  parseValue(value){
     return parseInt(value);
   }
 
   isValid(value){
-    return  !isNaN(value);
+    return !isNaN(value);
   }
 
   renderValue(){
@@ -44,10 +48,13 @@ class BaseWidget{
 
   announce(){
     const thisWidget = this;
-    const event = new CustomEvent('updated',{
+
+    const event = new CustomEvent('updated', {
       bubbles: true
     });
+
     thisWidget.dom.wrapper.dispatchEvent(event);
   }
 }
+
 export default BaseWidget;
