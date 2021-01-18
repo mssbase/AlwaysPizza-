@@ -63,6 +63,8 @@
       <change afterPath="$PROJECT_DIR$/../PZ/.idea/PZ.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PZ/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PZ/project-pizzeria" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.eslintrc.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.gitignore" afterDir="false" />
@@ -93,12 +95,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/BaseWidget.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/BaseWidget.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Booking.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Booking.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/CartProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/CartProduct.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/package-lock.json" beforeDir="false" />
@@ -119,7 +116,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1l4DCXPKcsBmB9DZK560lpptbud" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -134,7 +131,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -144,11 +141,11 @@
       <recent name="$PROJECT_DIR$/../untitled" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/../SoloProject" />
       <recent name="$PROJECT_DIR$/../BooksApp" />
       <recent name="$PROJECT_DIR$/../BookApp" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test2.js">
@@ -198,9 +195,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610209757292">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611003255497">
+      <screen x="0" y="23" width="1280" height="723" />
     </state>
+    <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.723@0.23.1280.723" timestamp="1611003255497" />
     <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.724@0.23.1280.724" timestamp="1610209757292" />
     <state x="369" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.726@0.23.1280.726" timestamp="1609602758002" />
     <state x="292" y="170" key="EditFileWatcherDialog" timestamp="1609610479643">
