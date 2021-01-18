@@ -20,7 +20,7 @@ class BaseWidget{
     // check if the newValue is different from the one already written
     if(
       thisWidget.correctValue !== newValue &&
-      thisWidget.isValid(newValue)
+       thisWidget.isValid(newValue)
     ){
       thisWidget.correctValue = newValue;
       thisWidget.announce();

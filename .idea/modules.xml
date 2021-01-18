@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../BooksApp/.idea/BooksApp.iml" filepath="$PROJECT_DIR$/../BooksApp/.idea/BooksApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PZ/.idea/PZ.iml" filepath="$PROJECT_DIR$/../PZ/.idea/PZ.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pizza.iml" filepath="$PROJECT_DIR$/.idea/Pizza.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SoloProject/.idea/SoloProject.iml" filepath="$PROJECT_DIR$/../SoloProject/.idea/SoloProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../blog-js/.idea/blog-js.iml" filepath="$PROJECT_DIR$/../blog-js/.idea/blog-js.iml" />

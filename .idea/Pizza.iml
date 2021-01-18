@@ -12,5 +12,6 @@
     <orderEntry type="module" module-name="BooksApp" />
     <orderEntry type="module" module-name="ksiazka" />
     <orderEntry type="module" module-name="SoloProject" />
+    <orderEntry type="module" module-name="PZ" />
   </component>
 </module>
