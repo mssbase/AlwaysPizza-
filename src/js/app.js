@@ -35,11 +35,8 @@ const app = {
       link.addEventListener('click', function(event){
         const clickedElement = this;
         event.preventDefault();
-        /* get pageId from attribute href */
         const id = clickedElement.getAttribute('href').replace('#','');
-        /* run thisApp.activatePage with that id */
         thisApp.activatePage(id);
-        /* change URL has */
         window.location.hash = '#/' + id;
       });
     }
@@ -47,11 +44,9 @@ const app = {
 
   activatePage: function(pageId){
     const thisApp = this;
-    /* add class 'active' to matching pages, remove form non-matching*/
     for(let page of thisApp.pages){
       page.classList.toggle(classNames.pages.active,page.id == pageId);
     }
-    /* add class 'active' to matching links, remove form non-matching*/
     for(let link of thisApp.navLinks){
       link.classList.toggle(
         classNames.nav.active,
@@ -70,10 +65,7 @@ const app = {
         return rawResponse.json();
       })
       .then(function(parsedResponse){
-
-        /* save parsedResponse as thisApp.data.products */
         thisApp.data.products = parsedResponse;
-        /* execute initMenu method */
         thisApp.initMenu();
       });
   },

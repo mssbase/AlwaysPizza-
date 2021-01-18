@@ -63,20 +63,6 @@
       <change afterPath="$PROJECT_DIR$/../PZ/.idea/PZ.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PZ/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PZ/project-pizzeria" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/homepage/pizza-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/components/Carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/partials/_home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vendor/flickity.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vendor/flickity.pkgd.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.eslintrc.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoloProject/.gitignore" afterDir="false" />
@@ -107,42 +93,12 @@
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pizza.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pizza.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/breakfast.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/breakfast.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/doughnut.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/doughnut.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pizza/basil.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pizza/basil.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pizza/green-peppers.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pizza/green-peppers.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pizza/mushrooms.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pizza/mushrooms.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pizza/olives.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pizza/olives.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pizza/red-peppers.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pizza/red-peppers.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pizza/salami.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pizza/salami.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pizza/sour-cream.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pizza/sour-cream.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pizza/tomato-sauce.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pizza/tomato-sauce.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/salad/black-pepper.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/salad/black-pepper.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/salad/cheese.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/salad/cheese.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/salad/cucumber.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/salad/cucumber.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/salad/feta.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/salad/feta.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/salad/herbs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/salad/herbs.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/salad/salad-olives.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/salad/salad-olives.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/salad/tomatoes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/salad/tomatoes.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/AmountWidget.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/AmountWidget.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/components/BaseWidget.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/BaseWidget.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/components/Booking.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Booking.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/components/CartProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/CartProduct.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/DatePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/DatePicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/HourPicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/HourPicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/components/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/settings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/partials/_booking.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/partials/_booking.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/partials/_product.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/partials/_product.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BB/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript-blog/package-lock.json" beforeDir="false" />

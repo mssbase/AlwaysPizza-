@@ -18,7 +18,6 @@ class Booking{
 
     const startDateParam = settings.db.dateStartParamKey + '=' + utils.dateToStr(thisBooking.datePicker.minDate);
     const endDateParam = settings.db.dateEndParamKey + '=' + utils.dateToStr(thisBooking.datePicker.maxDate);
-
     const params = {
       booking: [
         startDateParam,
@@ -87,7 +86,6 @@ class Booking{
         }
       }
     }
-
     thisBooking.updateDOM();
   }
 
@@ -146,7 +144,6 @@ class Booking{
     thisBooking.starters = [];
     thisBooking.dom.wrapper = element;
     thisBooking.dom.wrapper.innerHTML = generatedHTML;
-
     thisBooking.dom.peopleAmount = thisBooking.dom.wrapper.querySelector(select.booking.peopleAmount);
     thisBooking.dom.hoursAmount  = thisBooking.dom.wrapper.querySelector(select.booking.hoursAmount);
     thisBooking.dom.datePicker   = thisBooking.dom.wrapper.querySelector(select.widgets.datePicker.wrapper);
@@ -265,5 +262,4 @@ class Booking{
       .then(location.reload());
   }
 }
-
 export default Booking;
